@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Login_Sec"/>
+	<classpathentry kind="lib" path="E:/My Stuffs/PROGRAMMING TOOLS/JDBC driver for Oracle/10g releade 2/ojdbc14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
